@@ -11,22 +11,20 @@ Version Control: Git, GitHub
 Other: EJS, Python, C, AWS Hosting, SSL (HTTPS)
 Current Learning: App Development with Flutter
 🎮 Current Projects:
-Sansthaein Aur Samvidhan (SIH 2024)
+Fully Functioning E-Commerce Website
 
-A gamified platform to simplify the Indian Constitution using interactive game formats. Features include an RPG adventure game, quizzes, and spin-the-wheel challenges.
-Tech Stack: Node.js, React.js, MongoDB, IBM’s Machine Learning Platform
+A responsive e-commerce platform with user authentication, product listings, shopping cart, and payment integration.
+Tech Stack: React.js, Node.js, MongoDB, Stripe API
+Student Resource Website
+
+A platform designed to help students access study materials, notes, and resources for various subjects, with a simple UI/UX.
+Tech Stack: HTML, CSS, JavaScript, Node.js, MongoDB
 Portfolio Website
 
 Showcasing my skills, projects, and services as a Full-Stack Developer, UI/UX Designer, and Graphic Designer.
 Tech Stack: HTML, CSS, JavaScript, React.js
-AI-powered Chatbot for HR Queries (SIH 2024)
-
-A chatbot solution using deep learning and NLP for handling organizational queries, document processing, and security features.
-Tech Stack: Node.js, React.js, IBM Watson
 🌱 What I'm Learning:
 App development with Flutter
 Exploring advanced AI/ML solutions
 Participating in hackathons like IBM Datathon
 🤝 Let's Connect!:
-LinkedIn: Your LinkedIn Profile
-Twitter: @YourTwitterHandle
