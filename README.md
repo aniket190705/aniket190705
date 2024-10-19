@@ -2,6 +2,8 @@
   
 
 <div align="center">
+<h2>Full-Stack Developer | React & Node.js | Building Scalable Web Applications</h2>
+<br/>
 <a href="https://github.com/aniket190705" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
