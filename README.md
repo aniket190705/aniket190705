@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket Sharma</h1>
+<h2 align="center">Hi 👋, I'm Aniket Sharma</h2>
 <h3 align="center">Full-Stack Developer | React & Node.js | Building Scalable Web Applications</h3>
 
 🔭 I’m currently working on **Student Resource Website**  
