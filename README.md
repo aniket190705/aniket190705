@@ -23,7 +23,7 @@ I am a Fullstack Developer skilled in React, Node.js, and Express, with experien
 
 
 ## Rapidfire  
-<tabled align = "center"><tr><td valign="top" width="50%">
+<tabled valign = "center"><tr><td valign="top" width="50%">
 
 - 👩🏻‍💻I’m currently working on Student Resource Website  
   
