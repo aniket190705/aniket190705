@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniket Sharma</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">Full-Stack Developer | React & Node.js | Building Scalable Web Applications</h3>
 
 🔭 I’m currently working on **Student Resource Website**  
 🌱 I’m currently learning **Machine Learning**  
-💬 Ask me about **React.js, HTML, CSS, Express.js, JavaScript**  
+💬 Ask me about **React.js, HTML, Node.js, Express.js, JavaScript**  
 📫 How to reach me: **aniket190705@gmail.com**  
 
 <br/>
