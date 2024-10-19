@@ -34,10 +34,6 @@ I am a Fullstack Developer skilled in React, Node.js, and Express, with experien
 - 💭Ask me about anything related to the MERN stack and web development  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
