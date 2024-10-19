@@ -34,9 +34,6 @@ I am a Fullstack Developer skilled in React, Node.js, and Express, with experien
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
