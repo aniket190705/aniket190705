@@ -26,7 +26,7 @@ Portfolio Website:
 A personal website showcasing my projects, skills, and services as a full-stack developer and designer.
 
 📈 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Aniket's GitHub Stats"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aniket190705&show_icons=true&theme=radical" alt="Aniket's GitHub Stats"/> </p>
 🎨 Top Projects:
 E-Commerce Website
 Description: Built with React, Node.js, MongoDB, and integrated with Stripe for payments.
