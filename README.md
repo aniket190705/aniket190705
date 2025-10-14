@@ -89,7 +89,4 @@ I am a Fullstack Developer skilled in React, Node.js, and Express, with experien
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align = "center">[![An image of @aniket190705's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniket190705)](https://holopin.io/@aniket190705)</div>
