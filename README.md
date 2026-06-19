@@ -1,92 +1,152 @@
-# <div align="center">Hey 👋, I'm Aniket Sharma</div>  
-  
+# <div align="center">Hi, I'm Aniket Sharma 👋</div>
 
 <div align="center">
-<h2>Full-Stack Developer | React & Node.js | Building Scalable Web Applications</h2>
-<br/>
-<a href="https://github.com/aniket190705" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+### Full-Stack Developer | Cloud & DevOps Enthusiast | Building Scalable Systems
+
+<a href="https://github.com/aniket190705">
+<img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/aniketsharma1907" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
+<a href="https://linkedin.com/in/aniketsharma1907">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+</div>
 
-### Glad to see you here!  
-I am a Fullstack Developer skilled in React, Node.js, and Express, with experience in building e-commerce websites and student resource platforms. Proficient in HTML, CSS, JavaScript, and databases like MongoDB and MySQL, I'm also exploring Machine Learning to enhance my tech expertise.  
-  
+---
 
-<br/>  
+## 🚀 About Me
 
+I'm a Full-Stack Developer passionate about building production-ready applications from frontend interfaces to scalable backend systems and cloud deployments.
 
-## Rapidfire  
-<tabled valign = "center"><tr><td valign="top" width="50%">
+I primarily work with React, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, and AWS. I enjoy designing systems, automating deployments, and solving real-world engineering problems.
 
-- 👩🏻‍💻I’m currently working on Student Resource Website  
-  
+- 🎓 Computer Science Engineering Student (CGPA: 9.0)
+- 🌍 Based in Bengaluru, India
+- ☁️ Interested in Cloud, DevOps, Distributed Systems & AI
+- 🤖 Leveraging AI tools to improve development productivity
+- 📈 Currently preparing for Software Engineering internships
 
-- 💡I’m currently learning Machine Learning  
-  
+---
 
-- 💭Ask me about anything related to the MERN stack and web development  
+## 🔭 Current Focus
 
+- Building scalable full-stack applications
+- Deepening AWS & DevOps knowledge
+- Learning System Design
+- Exploring Machine Learning & AI Engineering
+- Practicing Data Structures & Algorithms
 
-</td></tr></table>  
+---
 
-<br/>  
+## 🏆 Featured Projects
 
+### 🛰️ OrbitalScope
+Real-time 3D satellite tracking platform.
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/4fa16ef4-59f9-4646-b5a2-7e0956d195b4" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-</div>  
+**Tech Stack:** React, CesiumJS, Node.js, PostgreSQL, Redis, Docker, AWS
 
-<br/>  
+- Tracks live satellite positions every 3 seconds using SGP4 algorithms
+- JWT + Google OAuth authentication
+- Redis caching for faster API responses
+- Dockerized microservices architecture
+- Automated deployments using GitHub Actions, AWS ECR & EC2
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### 👕 Trendy Threads
+Full-stack e-commerce platform.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniket190705&show_icons=true&count_private=true&hide_border=true" align="left" />
+**Tech Stack:** React, Node.js, MongoDB, Redis, Docker, AWS
 
-</td><td valign="top" width="50%">
+- Product catalog & shopping experience
+- JWT Authentication
+- Razorpay Payment Integration
+- Redis session caching
+- CI/CD deployment pipeline with GitHub Actions
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket190705&hide_border=true&layout=compact" align="left" />
+---
 
-</td></tr></table>  
+### 🧠 Human Error & Fatigue Predictor
 
-<br/>  
+**Tech Stack:** React, Node.js, Python, XGBoost, Scikit-Learn
 
-[![](https://profile-readme-generator.com/assets/snake.svg)  ](https://holopin.me/aniket190705)](https://holopin.io/@aniket190705)
-  
+- Chrome MV3 Extension telemetry collection
+- Real-time fatigue risk analysis dashboard
+- Random Forest & XGBoost model comparison
+- Low-latency ML inference system
 
-<br/>  
+---
 
-  
+## 🛠️ Tech Stack
 
-<br/>  
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
 
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-black?style=flat-square)
 
-[![An image of @aniket190705's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniket190705)](https://holopin.io/@aniket190705)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions)
+![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+
+---
+
+## 🎤 Leadership
+
+### Bengaluru AI Summit 2024 (BAiS24)
+
+- Organized an AI summit attended by 160+ participants
+- Led a team of 10+ volunteers
+- Secured sponsorships from Nasdaq, Red Bull, and GeekyAnts
+- Hosted at Google's Kyoto West Office, Bengaluru
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aniket190705&show_icons=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket190705&layout=compact" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/aniket190705
+- LinkedIn: https://linkedin.com/in/aniketsharma1907
+- Email: aniket190705@gmail.com
+
+---
+
+⭐ Always open to discussing software engineering, cloud infrastructure, distributed systems, AI, and interesting projects.
