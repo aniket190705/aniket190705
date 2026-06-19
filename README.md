@@ -17,7 +17,7 @@
 
 ## About Me
 
-Full-Stack Developer with experience building and deploying production-ready web applications using React, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, and AWS.
+Full-Stack Developer with experience building and deploying full-stack applications using React, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, and AWS.
 
 I work across the full stack, from responsive frontends and backend APIs to containerization, CI/CD automation, and cloud deployments.
 
